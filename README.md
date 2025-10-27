@@ -15,6 +15,8 @@ screenshots of the project GUI:
 <img width="896" height="582" alt="image" src="https://github.com/user-attachments/assets/c3203566-494b-411b-a82d-dc220964ddc0" />
 <img width="895" height="580" alt="image" src="https://github.com/user-attachments/assets/d0aec9f5-0d9e-4ed8-9667-77e7a24161d1" />
 <img width="893" height="581" alt="image" src="https://github.com/user-attachments/assets/6fa64cc0-07fe-41a6-8cf1-d802ac8a1c6e" />
+<img width="1104" height="676" alt="image" src="https://github.com/user-attachments/assets/5439290c-aa3b-4b62-bccd-d4b0fc992a78" />
+
 
 
 
